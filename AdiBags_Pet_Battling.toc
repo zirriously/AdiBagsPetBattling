@@ -1,0 +1,7 @@
+## Interface: 70300
+## Title: AdiBags - Pet Battling
+## Notes: Adds a pet battle-related filter to AdiBags
+## Author: Zirr#21745
+## Version: 1.0
+## Dependencies: AdiBags
+AdiBags_Pet_Battling.lua
